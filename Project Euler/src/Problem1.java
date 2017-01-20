@@ -9,7 +9,7 @@ public class Problem1 {
 	        	/*if x is a multiple of 3 or 5 print it out */
 	        	if(x%3 == 0 || x%5 ==0)
 	        	{
-	        		/*get the sum of allt he multiples of 3 and 5 */
+	        		/*get the sum of allt he multiples of 3 and 50000 */
 	        		a=a+x;
 	        		  System.out.println( x );
 	        	}
